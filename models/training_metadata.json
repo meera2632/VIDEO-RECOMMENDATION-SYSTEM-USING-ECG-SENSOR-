@@ -1,0 +1,5 @@
+{
+  "rows": 60,
+  "model": "svm",
+  "test_macro_f1": 1.0
+}
